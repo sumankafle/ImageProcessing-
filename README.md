@@ -101,10 +101,10 @@ The main goals are:
 
 ## 🛠️ Technologies Used
 
-* **C++ (Modern C++)**
-* **OpenCV**
-* **Linux (Ubuntu)**
-* **USB Industrial Camera (Allied Vision Alvium 1800)**
+* **C++ Modern C++)**
+* **OpenCV and Visual Studio 2022**
+* **Windows 11**
+* **USB  Camera**
 
 ---
 
@@ -120,8 +120,8 @@ The main goals are:
    ```bash
    sudo apt install libopencv-dev
    ```
-3. Link opencv with MS Visual Studio Code
-5. Run the examples eg. any *.sln 
+3. Link opencv with Visual Studio 2022 (opencv as environment variable)
+5. Run the examples in Visual Studio 2022 eg. any *.sln 
 
 ---
 
